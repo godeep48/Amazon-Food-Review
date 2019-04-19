@@ -7,6 +7,7 @@ This dataset consists of reviews of fine foods from amazon. The data span a peri
 - database.sqlite: Contains the table 'Reviews'
 
 ##Data includes:
+Downloads: https://drive.google.com/open?id=1U8qHimiKTyWMHO8WZtAJwW7w1AzjDxPA
 - Reviews from Oct 1999 - Oct 2012
 - 568,454 reviews
 - 256,059 users
